@@ -3,25 +3,23 @@ header {
     font-family: 'DOKDO', cursive;
     text-align: center;
 }
-    .box {
+.box {
         display: block;
         float: left;
         width: 20%;
         padding: 10px;
         padding-left: 50px;
     }
-        main {
+main {
             margin-left: 100px;
     }
- 
-    img {
+
+img {
      width: 100%;
   border-radius: 5PX; 
     }
- 
-   
- 
- img:hover {
+
+img:hover {
      transform: scale(2,2);
      transition: 2s transform;
  }
